@@ -1,6 +1,6 @@
 # Hey you! 👋
 
-### I'm Bruno, a food enginner who's is working now with WebSite Development, thus... 
+### I'm Bruno, a food engineer who's is working now with WebSite Development, thus... 
 I'm a Full Stack Developer!
 
 
