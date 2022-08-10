@@ -5,7 +5,7 @@ I'm a Full Stack Developer!
 
 
 - 🔭 I’m currently working on Front-End and Back-End
-- 🌱 I’m currently learning ReactJS 
+- 🌱 I’m currently learning ReactJS + NodeJS
 - 📫 Reach me bpatriciocosta@gmail.com or https://www.linkedin.com/in/brunopatricioc/
 - ⚡ Developing a WebSite for Challenge do Bem!
 
