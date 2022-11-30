@@ -1,13 +1,13 @@
 # Hey you! 👋
 
-### I'm Bruno, a food engineer who's is working now with WebSite Development, thus... 
-I'm a Full Stack Developer!
+### I'm Bruno, passionate learner building WebSites and apps!
 
 
-- 🔭 I’m currently working on Front-End and Back-End
-- 🌱 I’m currently learning ReactJS + NodeJS
+- 🔭 I’m currently working on Front-End and Back-End - Building the website for challengedobem.com
+- 🌱 Proficient in JavaScript + TypeScript // ReactJS + NodeJS + NextJS 
+- ⚡ SQL / NoSQL + MongoDB (Mongoose) 
+- ⚡ SASS + Styled-Components
 - 📫 Reach me bpatriciocosta@gmail.com or https://www.linkedin.com/in/brunopatricioc/
-- ⚡ Developing a WebSite for Challenge do Bem!
 
 ##
 
