@@ -30,5 +30,8 @@
   <br></br>
   <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bruno-Node" height="30" width="40" src="https://www.svgrepo.com/download/354119/nodejs-icon.svg">
+  <img align="center" alt="Bruno-Next" height="30" width="40" src="https://www.svgrepo.com/show/368858/nextjs.svg">
+  <img align="center" alt="Bruno-Git" height="30" width="40" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg">
+  
 
 </div>
