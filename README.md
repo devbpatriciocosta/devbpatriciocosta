@@ -3,7 +3,7 @@
 ### I'm Bruno, passionate learner building WebSites and apps!
 
 
-- 🔭 I’m currently working on Front-End and Back-End - Building the website for challengedobem.com
+- 🔭 I’m currently working on Front-End and Back-End - Building the website for Tag S.A. and challengedobem.com
 - 🌱 Proficient in JavaScript + TypeScript // ReactJS + NodeJS + NextJS + Express  
 - ⚡ SQL / NoSQL + MongoDB (Mongoose) 
 - ⚡ SASS/SCSS + Styled-Components
