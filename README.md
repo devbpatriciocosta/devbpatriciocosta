@@ -3,7 +3,7 @@
 ### I'm Bruno, passionate learner building WebSites and apps!
 
 
-- 🔭 I’m currently working on Front-End and Back-End - Building websites, manegement ecosystem and apps for Tag S.A., challengedobem.com and deliveryourbussines (by Bruno). 
+- 🔭 I’m currently working on Front-End and Back-End - Building websites, manegement ecosystem and apps for Tag S.A., challengedobem.com and WeDeliverYourBussines (by Bruno). 
 - 🌱 Proficient in JavaScript + TypeScript // ReactJS + NodeJS + NextJS + Express // Angular // Flutter 
 - ⚡ SQL / NoSQL + MongoDB (Mongoose) 
 - ⚡ SASS/SCSS + Styled-Components + Bootstrap 5
