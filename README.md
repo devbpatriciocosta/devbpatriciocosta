@@ -7,7 +7,7 @@
 - 🌱 Proficient in JavaScript + TypeScript // ReactJS + NodeJS + NextJS + Express // Angular // Flutter 
 - ⚡ SQL / NoSQL + MongoDB (Mongoose) 
 - ⚡ SASS/SCSS + Styled-Components + Bootstrap 5
-- 📫 Reach me bpatriciocosta@gmail.com or https://www.linkedin.com/in/brunopatricioc/
+- 📫 Reach me bpatriciocosta@gmail.com or https://www.linkedin.com/in/brunopatricioc/ or whatsapp +55 85 99727-5152
 
 ##
 
