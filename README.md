@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Front-End and Back-End - Building websites, manegement ecosystem and apps for Tag S.A., challengedobem.com and WeDeliverYourBussines (by Bruno). 
-- 🌱 Proficient in JavaScript + TypeScript // ReactJS + NodeJS + NextJS + Express // Angular // Flutter 
+- 🌱 Proficient in JavaScript + TypeScript // ReactJS + NodeJS + NextJS + Express // PHP // Angular // Flutter 
 - ⚡ SQL / NoSQL + MongoDB (Mongoose) 
 - ⚡ SASS/SCSS + Styled-Components + Bootstrap 5
 - 📫 Reach me bpatriciocosta@gmail.com or https://www.linkedin.com/in/brunopatricioc/ or whatsapp +55 85 99727-5152
@@ -34,8 +34,8 @@
   <img align="center" alt="Bruno-Git" height="30" width="40" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg">
   <br></br>
   <img align="center" alt="Bruno-PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png">
-  <img align="center" alt="Bruno-Flutter" height="30" width="40" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg">
-  <img align="center" alt="Bruno-Angular" height="30" width="40" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg">
-  <img align="center" alt="Bruno-MariaDB" height="30" width="40" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg">
+  <img align="center" alt="Bruno-Flutter" height="30" width="40" src="https://www.svgrepo.com/show/376318/flutter.svg">
+  <img align="center" alt="Bruno-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
+  <img align="center" alt="Bruno-MariaDB" height="30" width="40" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png">
   
 </div>
