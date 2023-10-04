@@ -32,6 +32,10 @@
   <img align="center" alt="Bruno-Node" height="30" width="40" src="https://www.svgrepo.com/download/354119/nodejs-icon.svg">
   <img align="center" alt="Bruno-Next" height="30" width="40" src="https://www.svgrepo.com/show/368858/nextjs.svg">
   <img align="center" alt="Bruno-Git" height="30" width="40" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg">
+  <br></br>
+  <img align="center" alt="Bruno-PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png">
+  <img align="center" alt="Bruno-Flutter" height="30" width="40" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg">
+  <img align="center" alt="Bruno-Angular" height="30" width="40" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg">
+  <img align="center" alt="Bruno-MariaDB" height="30" width="40" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg">
   
-
 </div>
